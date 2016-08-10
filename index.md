@@ -4,12 +4,16 @@ title: CMPT231 @TWU
 subtitle: Data Structures and Algorithms
 ---
 
++ Meeting time: Tue 13:10-15:50, NEU
++ Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
++ TA:
+
 ## Schedule
 
 | Week | Date | Topic | Reading | HW Due |
 | ---- | ---- | ----- | ------- | ------ |
-| 1 | 13 Sep | Analysis of Algorithms, Discrete Math review, Insertion Sort | ch1-3 | -- |
-| 2 | 20 Sep | Divide and Conquer, Heapsort | ch4,6 | HW1 (22 Sep) |
+| 1 | 13 Sep | [Analysis of Algorithms, Discrete Math review, Insertion Sort](http://cmpt231.github.io/lec1) | ch1-3 | -- |
+| 2 | 20 Sep | Divide and Conquer, Heapsort | ch4,6 | [HW1 (22 Sep)](hw1) |
 | 3 | 27 Sep | Priority Queue, Quicksort | ch7 | -- |
 | 4 | 4 Oct | ... | ... | HW2 (6 Oct) |
 | 5 | 11 Oct | ... | ... | -- |
