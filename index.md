@@ -26,3 +26,7 @@ subtitle: Data Structures and Algorithms
 | 12 | Nov_29 | ... | ... | -- |
 | 13 | Dec_6 | Semester Review | ... | HW6 (Dec_8) |
 | -- | Dec_9-19 | Final Exam (2hrs) | -- | -- |
+
+> Each lecture covers ~1-2 chapters; each HW covers ~2 lectures.
+
+> Midterm covers lectures 1-5 (HW1-3); final is comprehensive.
