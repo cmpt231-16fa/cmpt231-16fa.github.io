@@ -40,7 +40,7 @@ avatar: "img/TreeNetwork.svg"
 author:
   name: Sean Ho
   email: "twu@seanho.com"
-  github: seanho00
+  github: cmpt231
   linkedin: seanho00
   facebook: seanho00
 
@@ -51,7 +51,7 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   instagram: false
