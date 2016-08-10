@@ -14,17 +14,18 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: CMPT231 16FA TWU
+title: "CMPT231 16FA TWU"
 
 # Short description of your site
-description: Data Structures and Algorithms
+description: "Data Structures and Algorithms"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Syllabus: "syllabus"
+  myCourses: "http://courses.mytwu.ca"
   Resources:
+    - Download syllabus: "2016-3-CMPT_231_Syllabus.docx"
     - Textbook: "http://mitpress.mit.edu/algorithms/"
     - On GitHub: "https://github.com/cmpt231"
   Dr. Sean Ho: "http://seanho.com"
