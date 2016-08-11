@@ -6,12 +6,12 @@ subtitle: Data Structures and Algorithms
 
 + Meeting time: Tue 13:10-15:50, NEU
 + Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
-+ TA:
++ TA: to be announced
 
 ## Schedule
 
-| Wk | Date | Topic | Reading | HW Due |
-| ---- | ---- | ----- | ------- | ------ |
+| #   | Date | Topic | Reading | HW Due |
+| --- | ---- | ----- | ------- | ------ |
 | 1 | 9/13 | [Math review, Insertion Sort, Asymptotic Notation](lec1) | ch1-3 | -- |
 | 2 | 9/20 | [Divide and Conquer, Solving Recurrences, Randomized Algorithms](lec2) | ch4-5 | [HW1: 9/22](hw1) |
 | 3 | 9/27 | [Heaps/Queues, Quicksort](lec3) | ch6-7 | -- |
