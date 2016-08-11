@@ -4,6 +4,7 @@ title: CMPT231
 subtitle: Data Structures and Algorithms
 ---
 
++ Fal1 2016 at [Trinity Western University](http://www.twu.ca/)
 + Meeting time: Tue 13:10-15:50, NEU
 + Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
 + TA: to be announced
