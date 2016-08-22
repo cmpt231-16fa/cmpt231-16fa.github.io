@@ -4,11 +4,6 @@ title: CMPT231
 subtitle: Data Structures and Algorithms
 ---
 
-+ Fall 2016 at [Trinity Western University](http://www.twu.ca/)
-+ Meeting time: Tue 13:10-15:50, NEU
-+ Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
-+ TA: to be announced
-
 ## Schedule
 
 | #   | Date | Topic | Reading | HW Due |
@@ -30,3 +25,16 @@ subtitle: Data Structures and Algorithms
 
 > Each lecture covers ~1-2 chapters; each HW covers ~2 lectures. <br/>
 > Midterm covers lectures 1-5 (HW1-3); final is comprehensive.
+
+## Administration
++ Fall 2016 at [Trinity Western University](http://www.twu.ca/)
++ Meeting time: Tue 13:10-15:50, NEU
++ Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
++ TA: to be announced
+
+## Grading
++ TWU letter scale, except threshold for A+ is 95%
++ HW assignments: 54%
+  + Longer HWs will be weighted accordingly
++ Midterm exam: 15%
++ Final exam: 31%
