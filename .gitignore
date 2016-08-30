@@ -1,9 +1,10 @@
-# project
-_site
+*.swp
+*.swo
+~*
+*~
+node_modules
+bower_components
+dist
+*.log
 .sass-cache
-.vagrant
-
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
+/index.html
