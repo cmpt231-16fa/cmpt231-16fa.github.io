@@ -8,7 +8,7 @@ subtitle: Data Structures and Algorithms
 
 | #   | Date | Topic | Text | HW Due |
 | --- | ---- | ----- | ------- | ------ |
-| 1 | Sep 13 | [Math review, Insertion Sort, Merge Sort, Asymptotic Notation](lec1) | ch 1-3 | -- |
+| 1 | Sep 13 | [Analysis of Algorithms, Insertion Sort, Math Review, Asymptotic Notation](lec1) | ch 1-3 | -- |
 | 2 | Sep 20 | [Divide and Conquer, Solving Recurrences, Randomized Algorithms](lec2) | ch 4-5 | [HW1: 9/22](hw1) |
 | 3 | Sep 27 | [Heaps/Queues, Quicksort](lec3) | ch 6-7 | [HW2: 9/29](hw2) |
 | 4 | Oct 4 | [Linear-time Sort and Hash Tables](lec4) | ch 8, 11 | [HW3: 10/6](hw3) |
