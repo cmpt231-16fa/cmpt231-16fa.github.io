@@ -28,7 +28,7 @@ subtitle: Data Structures and Algorithms
 
 ## Administration
 + Fall 2016 at [Trinity Western University](http://www.twu.ca/)
-+ Meeting time: Tue 13:10-15:50, NEU20
++ Meeting time: Tue 13:10-15:50, NEU20 lab
 + Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
 + TA: Jason Yue, `kymotsujason at live.com`, office hours: TBA
 
@@ -38,3 +38,19 @@ subtitle: Data Structures and Algorithms
   + Longer HWs will be weighted accordingly
 + Midterm exam: 15%
 + Final exam: 31%
+
+## Resources
++ [CLRS Textbook site](http://mitpress.mit.edu/algorithms/)
++ MIT OpenCourseWare:
+  + stand-alone course:
+    [6-046j 2005](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
+  + or 3-part series:
+    + intro: [6-006 2011](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/),
+    [2008](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008)
+    + advanced: [6-046j 2015](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/),
+  [2012](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012)
+    + graduate-level: [6-854j 2008](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm),
+      [2005](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005)
++ CMPT231:
+  [Fall 2013](http://twu.seanho.com/13fall/cmpt231),
+  [Fall 2012](http://twu.seanho.com/12fall/cmpt231)
