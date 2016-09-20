@@ -28,9 +28,9 @@ subtitle: Data Structures and Algorithms
 
 ## Administration
 + Fall 2016 at [Trinity Western University](http://www.twu.ca/)
-+ Meeting time: Tue 13:10-15:50, NEU
++ Meeting time: Tue 13:10-15:50, NEU20
 + Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
-+ TA: to be announced
++ TA: Jason Yue, `kymotsujason at live.com`, office hours: TBA
 
 ## Grading
 + TWU letter scale, except threshold for A+ is 95%
