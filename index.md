@@ -41,6 +41,8 @@ subtitle: Data Structures and Algorithms
 
 ## Resources
 + [CLRS Textbook site](http://mitpress.mit.edu/algorithms/)
++ [Princeton site](http://algs4.cs.princeton.edu/) for textbook
+  *Algorithms, 4th ed* by Sedgewick and Wayne.  Links to Coursera MOOCs.
 + MIT OpenCourseWare:
   + stand-alone course:
     [6-046j 2005](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
