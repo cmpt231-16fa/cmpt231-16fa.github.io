@@ -28,7 +28,7 @@ subtitle: Data Structures and Algorithms
 
 ## Administration
 + Fall 2016 at [Trinity Western University](http://www.twu.ca/)
-+ Meeting time: Tue 13:10-15:50, NEU20 lab
++ Lecture: Tue 13:10-15:50, NEU20 lab
 + Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
 + TA: Jason Yue, `kymotsujason at live.com`, office hours: Tue 11:50-12:50, Math TA office
 
