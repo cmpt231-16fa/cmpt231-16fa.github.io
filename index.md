@@ -21,7 +21,7 @@ subtitle: Data Structures and Algorithms
 | 11 | Nov 22 | [Minimum Spanning Trees, Shortest Path](lec11) | ch 23, 24 | [HW8: 11/24](hw8) |
 | 12 | Nov 29 | [All-pairs Shortest Path](lec12) | ch 25 | -- |
 | 13 | Dec 6 | [Advanced Topics, Semester Review](lec13) | TBA | [HW9: 12/8](hw9) |
-| -- | Dec 9-19 | Final Exam (2hrs) | -- | -- |
+| -- | Dec 13 | Final Exam (14:00-16:00, tentative) | -- | -- |
 
 > Each lecture covers ~1-2 chapters; each HW covers 1-2 lectures. <br/>
 > Midterm covers lectures 1-5 (HW1-5); final is comprehensive.
@@ -30,7 +30,7 @@ subtitle: Data Structures and Algorithms
 + Fall 2016 at [Trinity Western University](http://www.twu.ca/)
 + Lecture: Tue 13:10-15:50, NEU20 lab
 + Instructor: [Dr. Sean Ho](http://seanho.com) `twu@seanho.com`
-+ TA: Jason Yue, `kymotsujason at live.com`, office hours: Tue 11:50-12:50, Math TA office
++ TA: Jason Yue, `kymotsujason at live.com`, office hours: Tue 11:50-12:50, NEU20 lab
 
 ## Grading
 + TWU letter scale, except threshold for A+ is 95%
