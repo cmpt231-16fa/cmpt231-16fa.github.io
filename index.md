@@ -60,3 +60,5 @@ subtitle: Data Structures and Algorithms
   + [Try Git!](http://try.github.com/): practise and learn Git in the browser, without installing anything on your computer
   + [Git Immersion](http://gitimmersion.com/): install Git and get started on your own projects
   + [Github Guides](http://guides.github.com/): a collection of tutorials on Git and Github concepts
+  + [Git - the simple guide](http://rogerdudler.github.io/git-guide/):
+    a single-page reference / cheat sheet
