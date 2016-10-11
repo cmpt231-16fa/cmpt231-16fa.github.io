@@ -56,3 +56,7 @@ subtitle: Data Structures and Algorithms
 + CMPT231:
   [Fall 2013](http://twu.seanho.com/13fall/cmpt231),
   [Fall 2012](http://twu.seanho.com/12fall/cmpt231)
++ Git and Github:
+  + [Try Git!](http://try.github.com/): practise and learn Git in the browser, without installing anything on your computer
+  + [Git Immersion](http://gitimmersion.com/): install Git and get started on your own projects
+  + [Github Guides](http://guides.github.com/): a collection of tutorials on Git and Github concepts
