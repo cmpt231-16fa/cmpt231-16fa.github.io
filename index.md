@@ -62,3 +62,7 @@ subtitle: Data Structures and Algorithms
   + [Github Guides](http://guides.github.com/): a collection of tutorials on Git and Github concepts
   + [Git - the simple guide](http://rogerdudler.github.io/git-guide/):
     a single-page reference / cheat sheet
+  + [Github Student Pack](https://education.github.com/pack):
+    Free software for students!
+    (Public repositories are always free on Github.)
+
