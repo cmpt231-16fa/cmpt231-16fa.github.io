@@ -13,9 +13,9 @@ subtitle: Data Structures and Algorithms
 | 3 | Sep 27 | [Heaps/Queues, Quicksort](lec3) | ch 6-7 | [HW2: 9/29](hw2) |
 | 4 | Oct 4 | [Linear-time Sort and Hash Tables](lec4) | ch 8, 11 | [HW3: 10/6](hw3) |
 | 5 | Oct 11 | [Pointers: Linked Lists, Binary Search Trees](lec5) | ch 10, 12 | [HW4: 10/13](hw4) |
-| 6 | Oct 18 | [Red-black Trees and B-Trees, Midterm Review](lec6) | ch 13, 18 | [HW5: 10/20](hw5) |
+| 6 | Oct 18 | [B-Trees, Midterm Review](lec6) | ch 18 | [HW5: 10/20](hw5) |
 | 7 | Oct 25 | [Midterm Exam](midterm) | lec 1-5 | -- |
-| 8 | Nov 1 | [Dynamic Programming](lec8) | ch15 | [HW6: 11/3](hw6) |
+| 8 | Nov 1 | [Red-Black Trees, Dynamic Programming](lec8) | ch 13, 15 | [HW6: 11/3](hw6) |
 | 9 | Nov 8 | [Greedy Algorithms, Huffman Coding](lec9) | ch 16 | -- |
 | 10 | Nov 15 | [Graph Algorithms](lec10) | ch22 | [HW7: 11/17](hw7) |
 | 11 | Nov 22 | [Minimum Spanning Trees, Shortest Path](lec11) | ch 23, 24 | [HW8: 11/24](hw8) |
