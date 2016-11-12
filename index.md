@@ -17,7 +17,7 @@ subtitle: Data Structures and Algorithms
 | 7 | Oct 25 | [Midterm Exam](midterm) | lec 1-5 | -- |
 | 8 | Nov 1 | [Dynamic Programming](lec8) | ch 15 | [HW6: 11/3](hw6) |
 | 9 | Nov 8 | [Greedy Algorithms, Huffman Coding](lec9) | ch 16 | -- |
-| 10 | Nov 15 | [Graph Algorithms](lec10) | ch22 | [HW7: 11/17](hw7) |
+| 10 | Nov 15 | [Graph Algorithms](lec10) | ch 22, 23 | [HW7: 11/17](hw7) |
 | 11 | Nov 22 | [Minimum Spanning Trees, Shortest Path](lec11) | ch 23, 24 | [HW8: 11/24](hw8) |
 | 12 | Nov 29 | [All-pairs Shortest Path](lec12) | ch 25 | -- |
 | 13 | Dec 6 | [Advanced Topics, Semester Review](lec13) | TBA | [HW9: 12/8](hw9) |
