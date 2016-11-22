@@ -20,7 +20,7 @@ subtitle: Data Structures and Algorithms
 | 10 | Nov 15 | [Graph Algorithms](lec10) | ch 22 | [HW7: 11/17](hw7) |
 | 11 | Nov 22 | [Minimum Spanning Trees, Shortest Path](lec11) | ch 23, 24 | [HW8: 11/24](hw8) |
 | 12 | Nov 29 | [All-pairs Shortest Path, NP-Completeness](lec12) | ch 25, 34 | -- |
-| 13 | Dec 6 | [Advanced Topics, Semester Review](lec13) | TBA | [HW9: 12/8](hw9) |
+| 13 | Dec 6 | [Advanced Topics, Semester Review](lec13) [(practise final)](final-practise) | TBA | [HW9: 12/8](hw9) |
 | -- | Dec 13 | Final Exam (14:00-16:00, tentative) | -- | -- |
 
 > Each lecture covers ~1-2 chapters; each HW covers 1-2 lectures. <br/>
