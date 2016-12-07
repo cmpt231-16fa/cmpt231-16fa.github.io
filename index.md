@@ -53,6 +53,7 @@ subtitle: Data Structures and Algorithms
   [2012](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012)
     + graduate-level: [6-854j 2008](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/index.htm),
       [2005](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005)
++ Harvard/Yale [CS50 YouTube](https://www.youtube.com/user/cs50tv) intro programming, with data structures (stacks/queues, trees) and Huffman coding
 + CMPT231:
   [Fall 2013](http://twu.seanho.com/13fall/cmpt231),
   [Fall 2012](http://twu.seanho.com/12fall/cmpt231)
