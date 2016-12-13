@@ -21,7 +21,7 @@ subtitle: Data Structures and Algorithms
 | 11 | Nov 22 | [Minimum Spanning Trees, Shortest Path](lec11) | ch 23, 24 | [HW8: 11/24](hw8) |
 | 12 | Nov 29 | [All-pairs Shortest Path](lec12) | ch 25 | -- |
 | 13 | Dec 6 | [Tractability, Semester Review](lec13) | ch 34 | [HW9: 12/8](hw9) |
-| -- | Dec 13 | [Final Exam](final) (14:00-16:00, tentative) | -- | -- |
+| -- | Dec 13 | [Final Exam](final) (14:00-16:00, tentative) [(practise)](final/practise) | -- | -- |
 
 > Each lecture covers ~1-2 chapters; each HW covers 1-2 lectures. <br/>
 > Midterm covers lectures 1-5 (HW1-5); final is comprehensive.
